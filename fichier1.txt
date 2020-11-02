@@ -1,1 +1,2 @@
 "voici la ligne insere a partir du cite"
+"voici la ligne insere en locale"
