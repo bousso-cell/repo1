@@ -3,8 +3,5 @@
 "voici la ligne insere en locale par amar"
 "Diarra moi aussi je modifie sans mettre a jour (git pull) et je push"
 
-<<<<<<< HEAD
 "Diarra, je push apres avoir cree la brance brancheamar"
-=======
 "apres git branch1 ,je fait un push"
->>>>>>> 09f4a6abca39bd0a2ac303394b6ff88ded3d22e7
