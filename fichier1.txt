@@ -1,3 +1,4 @@
 "voici la ligne insere a partir du cite"
 "voici la ligne insere en locale"
 "voici la ligne insere en locale par amar"
+"Diarra moi aussi je modifie sans mettre a jour (git pull) et je push"
